@@ -75,6 +75,23 @@
     margin-top: 15px;
   }
 }
+
+/* tablet */
+@media (1000px>width>600px) {
+     #profile{
+    margin-top: 210px;
+  }
+  #about {
+  margin-top: 450px;
+}
+#contact {
+  margin-top: 650px;
+}
+footer {
+margin-bottom: 150px;
+}
+}
+
 @media screen and (max-width: 600px) {
   h1 {
     font-size: 40px;

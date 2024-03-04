@@ -232,7 +232,9 @@ margin-bottom: 150px;
   /* /////////////////////////////////////////////////////////// */
 
   /*================================ projects ================================ --> */
-
+ #projects hr {
+  margin-bottom: 80px;
+}
   #projects .text-center div .b1 {
     font-size: 13px;
     height: 42px;

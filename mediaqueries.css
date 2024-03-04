@@ -53,10 +53,6 @@
     margin-top: 20px;
   }
   /*====== end profile ======*/
-  #about {
-    height: 80vh;
-  }
-
   #about div img {
     width: 80%;
   }
@@ -200,9 +196,6 @@
   /* /////////////////////////////////////////////////////////// */
 
   /*========= experience =============*/
-   #experience {
-  margin-top: 500px;
-}
 #experience .container {
   margin-top: 80px;
 }

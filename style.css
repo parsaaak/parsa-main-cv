@@ -430,36 +430,17 @@ a:hover {
   margin-top: 100px;
 }
 
-#contact div a {
-  margin-top: -15px;
-  margin-bottom: -15px;
-  padding-inline: 5px;
-}
-
-#contact div a:first-child {
-  padding-right: 30px;
-}
-
-#contact div a:last-child {
-  padding-left: 30px;
-}
-
 #contact div a img {
   width: 80%;
   aspect-ratio: 3/2;
   object-fit: contain;
 }
-#contact div a img:first-child {
-  margin-top: 30px;
-}
 
 #contact div a img {
   width: 37px;
-  margin-bottom: 30px;
 }
 #contact div a .linkedin-pic {
   width: 40px;
-  margin-bottom: 30px;
 }
 
 /*================================ end contact ================================ --> */

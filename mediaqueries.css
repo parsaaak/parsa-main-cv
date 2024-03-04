@@ -200,12 +200,12 @@
   /* /////////////////////////////////////////////////////////// */
 
   /*========= experience =============*/
-  #experience h1 {
-    padding-top: 150px;
-  }
-  #experience .container {
-    margin-top: 80px;
-  }
+   #experience {
+  margin-top: 500px;
+}
+#experience .container {
+  margin-top: 80px;
+}
   #experience p {
     font-size: 12px;
     font-weight: bold;

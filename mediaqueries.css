@@ -5,6 +5,9 @@
   #profile .row div p:nth-child(3) {
     letter-spacing: 4px;
   }
+    .learning-section{
+  height: 597px;
+}
 }
 /*====== end profile ======*/
 
@@ -12,6 +15,9 @@
   #profile div h1 {
     font-size: 49px;
   }
+      .learning-section{
+  height: 565px;
+}
   /*======= end profile =======*/
 }
 @media screen and (max-width: 1000px) {
@@ -37,7 +43,9 @@
     font-size: 14px;
     font-weight: 600;
   }
-
+     .learning-section{
+  height: 590px;
+}
   /*====== end profile ======*/
 }
 @media screen and (max-width: 900px) {
@@ -206,6 +214,9 @@
     font-size: 13px;
     font-weight: 500;
   }
+   .learning-section{
+  height: 599px;
+}
   /*========= end experience ===========*/
 
   /* /////////////////////////////////////////////////////////// */

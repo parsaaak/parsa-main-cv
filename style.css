@@ -320,6 +320,9 @@ a:hover {
   border-radius: 30px;
   padding: 70px 10px 0 10px;
 }
+.learning-section{
+  height: 627px;
+}
 #experience img {
   width: 40%;
   aspect-ratio: 3/2;

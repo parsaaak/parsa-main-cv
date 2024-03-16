@@ -75,6 +75,7 @@ a {
   color: black;
   text-decoration: none;
   text-decoration-color: white;
+  transition: color 0.3s  linear;
 }
 
 a:hover {
